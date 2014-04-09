@@ -13,4 +13,4 @@ Examples:
 - 1997 is NOT leap year  (not divisible by 4)
 - 1996 is leap year      (divisible by 4)
 - 1600 is leap year      (divisible by 400)
-- 1800 is NOT leap year  (divisible by 4, divisible by 100, NOT divible by 400)
+- 1800 is NOT leap year  (divisible by 4, divisible by 100, NOT divisible by 400)
